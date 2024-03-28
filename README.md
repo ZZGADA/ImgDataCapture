@@ -33,7 +33,7 @@
 # Scripts using the operation
 ### You can first look at the end, and then look at the specific realization here
 ### 1, in the relevant image retrieval site to complete the `keyword` search: for example, using https://pixabay.com/zh/photos/ to complete the image retrieval
-! [img.png](README_Img/img.png)
+![img.png](README_Img/img.png)
 
 
 
@@ -41,7 +41,7 @@
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍  
 ### 2. Using the https://extract.pics/?verified=1 website, complete the image search and copy the url
-! [img_2.png](README_Img/img_2.png)
+![img_2.png](README_Img/img_2.png)
 
 
 
@@ -50,7 +50,7 @@
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍  
 ### 3, select the desired retrieval images, left choose `DOWNLOAD` below choose `Select all`, and then click `Copy selected URLs` that can be
 #### Note that you can choose to png, jpeg and other formats of the file Oh!
-! [img_3.png](README_Img/img_3.png)
+![img_3.png](README_Img/img_3.png)
 
 
 
@@ -58,16 +58,16 @@
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍  
 ### 4, finally open the script file I prepared for you, create capture_url folder, and then create your own favorite name of the text file (.txt file), the above copy of the data directly paste it!
-! [img_4.png](README_Img/img_4.png)
+![img_4.png](README_Img/img_4.png)
 👍👍👍👍👍👍👍👍
-! [img_5.png](README_Img/img_5.png)
+![img_5.png](README_Img/img_5.png)
 
 
 
 
 
 ### 5. Last step: go to the CaptureImg.py file and modify the appropriate variables and you're done! ❤😘😘😘😘😘😘😘
-! [img_6.png](README_Img/img_6.png)
+![img_6.png](README_Img/img_6.png)
 
 
 
